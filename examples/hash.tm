@@ -1,7 +1,10 @@
 let person = {
     "name": "Jaquaviontavious",
     "age": 32,
-    "occupation": "Cybersecuirty Engineer"
+    "occupation": "Cybersecuirty Engineer",
+    "information":  {
+        "phone-number": 18293718591
+    }
 };
 
 print(person)
